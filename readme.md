@@ -25,6 +25,8 @@ The system is built to perform three primary tasks:
 3. **RAG-Based Query with Search and Comparison (incomplete)**
    - Agents perform retrieval-augmented generation (RAG) to answer user queries, search for data on the internet, and compare results from multiple sources.
 
+execute seperate file for each agent in 'separate file for agent` folder if encountered problem in app
+
 ## File Structure
 
 - `agents_.py`: Contains logic for the agents responsible for the tasks outlined above.
