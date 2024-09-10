@@ -68,8 +68,9 @@ pip install -r requirements.txt
 Ensure that environment variables are configured correctly in a `.env` file.
 
 ### 5. Run the Application
+directory \AgentApp\stream
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ## Known Issues
