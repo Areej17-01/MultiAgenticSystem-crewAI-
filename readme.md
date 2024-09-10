@@ -1,6 +1,6 @@
 
 
-# Multi-Agentic Tool Suite for Task Automation
+# Multi-Agentic Tool for Task Automation
 
 ## Overview
 
